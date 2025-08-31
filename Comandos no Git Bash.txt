@@ -1,0 +1,15 @@
+	Git::
+		Inicialização do Git:
+				git init
+
+
+	npm project::
+		Inicialização do NPM:
+				npm init
+
+
+		Instalação:
+			npm install cypress@13.6.4 --save-dev
+		
+		Open Cypress:
+			npx cypress open
