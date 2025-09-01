@@ -13,3 +13,7 @@
 		
 		Open Cypress:
 			npx cypress open
+
+
+		Instalação do Framework Mocha:
+					npm install --save-dev mochawesome
